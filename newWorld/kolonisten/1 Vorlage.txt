@@ -1,0 +1,16 @@
+Kolonist Informationsblatt:
+--------------------
+Selbstauskunft
+Name: XXXXX Vorname: XXXXX
+Alter: XXXXX Geschlecht: XXXXX
+Reigionszugehörigkeit: XXXXX
+Schulbildung: XXXXX
+Beruf: XXXXX
+Sprachkenntnisse: XXXXX
+Besondere Fähigkeiten: 
+XXXXX
+--------------------
+Siedlungsgebiet: Gemäßigt 2
+Vorgeschlagene Position: XXXXX
+Notizen:
+XXXXX
