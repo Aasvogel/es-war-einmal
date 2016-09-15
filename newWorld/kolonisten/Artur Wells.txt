@@ -4,6 +4,7 @@ Selbstauskunft
 Name: Wells	Vorname: Artur
 Alter: 38 Geschlecht: m
 Reigionszugehörigkeit: rk
+Schulbildung: Abitur
 Beruf: Einsatzleiter bei der Polizei
 Sprachkenntnisse: Deutsch, Englisch
 Besondere Fähigkeiten: 
