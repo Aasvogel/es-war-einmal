@@ -1,6 +1,7 @@
-Kolonist Informationsblatt:
---------------------
+Kolonist Informationsblatt
+-----------------------------
 Selbstauskunft
+-----------------------------
 Name: XXXXX Vorname: XXXXX
 Alter: XXXXX Geschlecht: XXXXX
 Reigionszugehörigkeit: XXXXX
@@ -9,7 +10,18 @@ Beruf: XXXXX
 Sprachkenntnisse: XXXXX
 Besondere Fähigkeiten: 
 XXXXX
---------------------
+-----------------------------
+Erg. Untersuchung nach Krüger-Traugott 
+-----------------------------
+Allgemeiner Gesundheitszustand:
+XXXXX
+Allergien / Unverträglichkeiten: 
+XXXXX
+Erbanlagen-Analyse:
+Dieses Feld darf wegen AGG §§ 19 (7) nicht ausgefüllt werden.
+-----------------------------
+Sonstiges 
+-----------------------------
 Siedlungsgebiet: Gemäßigt 2
 Vorgeschlagene Position: XXXXX
 Notizen:

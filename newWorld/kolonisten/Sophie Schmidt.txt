@@ -1,5 +1,7 @@
-Kolonist Informationsblatt:
---------------------
+Kolonist Informationsblatt
+-----------------------------
+Selbstauskunft
+-----------------------------
 Selbstauskunft
 Name: Schmidt Vorname: Sophie
 Alter: 24 Geschlecht: w
@@ -8,7 +10,18 @@ Schulbildung: kein Abschluss
 Beruf: Bio-Landwirtin
 Sprachkenntnisse: Deutsch
 Besondere Fähigkeiten: 
---------------------
+-----------------------------
+Untersuchung nach Krüger-Traugott 
+-----------------------------
+Allgemeiner Gesundheitszustand:
+Sehr gut
+Allergien / Unverträglichkeiten: 
+Keine
+Erbanlagen-Analyse:
+Dieses Feld darf wegen AGG §§ 19 (7) nicht ausgefüllt werden.
+-----------------------------
+Sonstiges 
+-----------------------------
 Siedlungsgebiet: Gemäßigt 2
 Vorgeschlagene Position: Verantwortung für Landwirtschaft
 Notizen:

@@ -1,5 +1,7 @@
-Kolonist Informationsblatt:
---------------------
+Kolonist Informationsblatt
+-----------------------------
+Selbstauskunft
+-----------------------------
 Selbstauskunft
 Name: Wells	Vorname: Artur
 Alter: 38 Geschlecht: m
@@ -9,7 +11,18 @@ Beruf: Einsatzleiter bei der Polizei
 Sprachkenntnisse: Deutsch, Englisch
 Besondere Fähigkeiten: 
 2x bei Überlebenstraining mitgemacht.
---------------------
+-----------------------------
+Untersuchung nach Krüger-Traugott 
+-----------------------------
+Allgemeiner Gesundheitszustand:
+Sehr gut
+Allergien / Unverträglichkeiten: 
+Erdnüsse
+Erbanlagen-Analyse:
+Dieses Feld darf wegen AGG §§ 19 (7) nicht ausgefüllt werden.
+-----------------------------
+Sonstiges 
+-----------------------------
 Siedlungsgebiet: Gemäßigt 2
 Vorgeschlagene Position: Gruppenführung
 Notizen:

@@ -1,6 +1,7 @@
-Kolonist Informationsblatt:
---------------------
+Kolonist Informationsblatt
+-----------------------------
 Selbstauskunft
+-----------------------------
 Name: Probst Vorname: Jana
 Alter: 60 Geschlecht: w
 Reigionszugehörigkeit: ev
@@ -9,7 +10,18 @@ Beruf: Professor der Soziologie
 Sprachkenntnisse: Deutsch, Englisch, Französisch, Italienisch
 Besondere Fähigkeiten: 
 hohes Organisationstalent, Stressresistenz, Problemorientiertes Handeln
---------------------
+-----------------------------
+Untersuchung nach Krüger-Traugott 
+-----------------------------
+Allgemeiner Gesundheitszustand:
+gut
+Allergien / Unverträglichkeiten: 
+keine
+Erbanlagen-Analyse:
+Dieses Feld darf wegen AGG §§ 19 (7) nicht ausgefüllt werden.
+-----------------------------
+Sonstiges 
+-----------------------------
 Siedlungsgebiet: Gemäßigt 1
 Vorgeschlagene Position: Gruppenführung
 Notizen:
