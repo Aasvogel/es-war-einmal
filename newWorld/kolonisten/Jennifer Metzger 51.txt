@@ -6,7 +6,7 @@ Name: Metzger Vorname: Jennifer
 Alter: 51 Geschlecht: w
 Reigionszugehörigkeit: ev
 Schulbildung: Abitur
-Beruf: Schreiner-Meister
+Beruf: Hebamme
 Sprachkenntnisse: Deutsch, Englisch
 Besondere Fähigkeiten: 
 Hobby-Geologe. Auffinden und erkennen von Erzen.
@@ -14,7 +14,7 @@ Hobby-Geologe. Auffinden und erkennen von Erzen.
 Erg. Untersuchung nach Krüger-Traugott 
 -----------------------------
 Allgemeiner Gesundheitszustand:
-Befriedigend
+Gut
 Allergien / Unverträglichkeiten: 
 Keine
 Erbanlagen-Analyse:
@@ -23,6 +23,6 @@ Dieses Feld darf wegen AGG §§ 19 (7) nicht ausgefüllt werden.
 Sonstiges 
 -----------------------------
 Siedlungsgebiet: Gemäßigt 2
-Vorgeschlagene Position: Schreiner
+Vorgeschlagene Position: Hebamme
 Notizen:
 Ihr Wissen um Erze sollte unbedingt weiter verbreitet werden.
